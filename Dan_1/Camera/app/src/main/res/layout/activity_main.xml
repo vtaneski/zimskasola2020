@@ -17,7 +17,7 @@
         android:layout_height="400dp" />
 
     <!--Button to open camera-->
-    <Button
+    <com.google.android.material.button.MaterialButton
         android:id="@+id/capture_btn"
         android:text="Capture Image"
         android:layout_width="match_parent"
